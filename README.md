@@ -33,3 +33,5 @@ we have done a little research on the code we wrote, in order to penetrate some 
 # Read this
 Don't change the file name, if you change it you won't be able to log in to the webshell and Upload this `0jol.php` To Your Target!
 
+# Support me
+<a href="https://www.buymeacoffee.com/OJOLCYBERARMY"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=OJOLCYBERARMY&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
