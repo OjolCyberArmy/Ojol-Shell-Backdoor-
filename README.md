@@ -12,7 +12,8 @@
 * 406 Not Acceptable
 * Imunify360
 * Auto Delete Shell
-* firewall GoDaddy
+* GoDaddy
+* Domainesia (according to luck)
 
 we have done a little research on the code we wrote, in order to penetrate some system security which is always a problem for hackers out there.
 
