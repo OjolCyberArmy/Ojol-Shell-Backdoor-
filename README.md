@@ -3,6 +3,9 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/PHP-8.3.0-blue">
 	<img src="https://img.shields.io/badge/LICENSE-MIT-lime">
+ 	<img src="https://img.shields.io/badge/Version-1.2.0-darkred">
+
+</p>  
 
 # Bypassed Shell Backdoor 
 * 403 Forbidden
