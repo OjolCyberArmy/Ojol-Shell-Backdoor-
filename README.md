@@ -12,7 +12,9 @@
 * 406 Not Acceptable
 * Imunify360
 * Auto Delete Shell
-* firewall GoDaddy 
+* firewall GoDaddy
+
+we have done a little research on the code we wrote, in order to penetrate some system security which is always a problem for hackers out there.
 
 # Features
 * cpanel reset
