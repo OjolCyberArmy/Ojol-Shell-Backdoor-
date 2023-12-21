@@ -41,7 +41,7 @@ we have done a little research on the code we wrote, in order to penetrate some 
 * Port Scanner ( New )
 * CSRF ( New )
 * K-RDP Shell ( New )
-* Domain Viewr ( New )
+* Domain Viewer ( New )
 * Bypass pswd & user ( New )
 
 # Read this
