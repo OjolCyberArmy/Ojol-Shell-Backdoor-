@@ -35,7 +35,6 @@ we have done a little research on the code we wrote, in order to penetrate some 
 * Network ( New )
   - Bind Port & Back Connect
 * Whois ( New )
-* CGI ( New )
 * Fake Root ( New )
 * PHPInfo ( New )
 * Port Scanner ( New )
@@ -46,7 +45,6 @@ we have done a little research on the code we wrote, in order to penetrate some 
 
 # Read this
 - Upload this `0jol.php` To Your Target!
-- I suggest that before using the Ransomware feature, the `0jol.php` file must be in public_html and all files on the website are backed up
 
 # Support me
 <a href="https://www.buymeacoffee.com/OJOLCYBERARMY"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=OJOLCYBERARMY&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
