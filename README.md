@@ -10,6 +10,7 @@
 # Bypassed Shell Backdoor 
 * 403 Forbidden
 * 406 Not Acceptable
+* 404 not found 
 * Imunify360
 * Auto Delete Shell
 * GoDaddy (according to luck)
