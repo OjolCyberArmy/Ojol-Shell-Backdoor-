@@ -20,7 +20,7 @@ we have done a little research on the code we wrote, in order to penetrate some 
 Preview
 -------
 
-<img src="https://imgbox.com/FFzxVWtM" width="800" height="550"> 
+<img src="https://thumbs2.imgbox.com/7b/87/FFzxVWtM_t.jpg" width="800" height="550"> 
 
 
 # Features
