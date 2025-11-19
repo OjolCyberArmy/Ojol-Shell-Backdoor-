@@ -3,7 +3,7 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/PHP-8.3.0-blue">
 	<img src="https://img.shields.io/badge/LICENSE-MIT-lime">
- 	<img src="https://img.shields.io/badge/Version-1.4.0-darkred">
+ 	<img src="https://img.shields.io/badge/Version-1.5.0-darkred">
 
 </p>  
 
